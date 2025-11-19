@@ -1,3 +1,4 @@
+
 # Aplicação de Chat com Autenticação Básica
 
 **Guia Completo** | **Stack:** FastAPI + Jinja2 + SQLite + SSE
